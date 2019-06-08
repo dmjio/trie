@@ -1,0 +1,5 @@
+result*
+dist
+*~
+*.o
+*.hi
